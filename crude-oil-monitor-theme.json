@@ -1,0 +1,41 @@
+{
+    "name": "Crude Oil Monitor",
+    "dataColors": [
+          "#D9A441",
+          "#1C3F60",
+          "#6B7B8C",
+          "#8FA998",
+          "#B5651D",
+          "#4A4E69",
+          "#C9A66B",
+          "#3A6EA5"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#1B1F27",
+    "tableAccent": "#1C3F60",
+    "good": "#3D8361",
+    "bad": "#B5432E",
+    "neutral": "#D9A441",
+    "maximum": "#1C3F60",
+    "center": "#D9A441",
+    "minimum": "#FFFFFF",
+    "textClasses": {
+          "callout": {
+                  "fontSize": 32,
+                  "color": "#1C3F60"
+          },
+          "title": {
+                  "fontSize": 14,
+                  "fontFace": "Segoe UI Semibold",
+                  "color": "#1B1F27"
+          },
+          "header": {
+                  "fontSize": 12,
+                  "color": "#1B1F27"
+          },
+          "label": {
+                  "fontSize": 10,
+                  "color": "#4A4E69"
+          }
+    }
+}
